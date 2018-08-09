@@ -1,0 +1,24 @@
+{
+  "name": "SweeterFramework",
+  "version": "0.0.1",
+  "description": "Sweeeter core liblrary",
+  "main": "",
+  "author": "Andrii Barvynko",
+  "repository": "",
+  "license": "(ISC) UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-copy": "^1.0.0",
+    "gulp-nunjucks-render": "^2.2.2",
+    "gulp-sync": "^0.1.4",
+    "gulp-typescript": "^3.2.1",
+    "gulp-util": "^3.0.8",
+    "merge2": "^1.2.0",
+    "phaser": "^2.6.2",
+    "run-sequence": "^2.1.0",
+    "typescript": "^2.4.2",
+    "yargs": "^10.0.3"
+  }
+}

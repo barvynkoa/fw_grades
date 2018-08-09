@@ -1,0 +1,3 @@
+{%- extends "config_path.json" -%}
+{% block extra_config_data %}
+{% endblock %}
